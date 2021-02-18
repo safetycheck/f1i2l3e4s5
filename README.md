@@ -7,7 +7,28 @@ huseinzol05/Stock-Prediction-Models
 Stock-Prediction-Models, Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations.
 
 
+https://devcloud.intel.com/oneapi/
+90GB ram 
+xeon 6128
+CPU:
+Intel® Xeon® Scalable 6128 processors
+Intel® Xeon® Scalable 8256 processors
+Intel® Xeon® E-2176 P630 processors (with Intel® Graphics Technology)
+GPU:
+Intel® Xeon® E-2176 P630 processors (with Intel® Graphics Technology)
+Intel® Iris® Xe MAX
+FPGA:
+Intel® Arria® 10 FPGAs
+Intel® Stratix® 10 FPGAs 
 
+What You Get
+Free access to Intel® oneAPI toolkits and components and the latest Intel® hardware
+220 GB of file storage
+192 GB RAM
+120 days of access (extensions available)
+Terminal Interface (Linux*)
+Microsoft Visual Studio* Code integration
+Remote Desktop for Intel® oneAPI Rendering Toolkit
 
 
 
