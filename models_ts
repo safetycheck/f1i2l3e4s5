@@ -1,0 +1,143 @@
+
+
+
+
+BorealisAI/continuous-time-flow-process 
+Modeling Continuous Stochastic Process with Dynamic Normalizing Flow
+https://arxiv.org/pdf/2002.10516v3.pdf
+
+pytorch-ts
+We have implemented the following model using this framework:
+    Multi-variate Probabilistic Time Series Forecasting via 
+    Conditioned Normalizing Flows
+deepar
+deepvar
+lstnet
+n_beats
+simple_feedforward
+tempflow
+transformer
+transformer_tempflow 
+
+
+
+
+STLnet: Signal Temporal Logic Enforced Multivariate Recurrent Neural Networks
+no code
+
+
+
+hihihihiwsf/AST 
+GAN
+Adversarial Sparse Transformer for Time Series Forecasting 
+python train_gan.py --dataset elect --model test
+
+
+
+
+zhykoties/TimeSeries 
+Currently, the reimplementation of the DeepAR paper
+(DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks 
+https://arxiv.org/abs/1704.04110) is available in PyTorch. 
+More papers will be coming soon.
+
+
+
+mattsherar/Temporal_Fusion_Transform 
+
+
+
+
+timeseriestransformer.readthedocs.io
+
+LeiBAI/AGCRN 
+Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting
+
+
+
+nnzhan/MTGNN 
+This is a PyTorch implementation of the paper 
+Connecting the Dots: Multivariate Time Series Forecasting with 
+Graph Neural Networks.
+
+
+https://github.com/gantheory/TPA-LSTM
+TPA-LSTM
+Original Implementation of [''Temporal Pattern Attention for Multivariate Time Series Forecasting''](https://arxiv.org/abs/1809.04206).
+
+
+
+
+pytorch-forecasting
+ Temporal Fusion Transformer
+ N-Beats
+
+
+
+
+AIStream-Peelout/flow-forecast
+pip install flood-forecast
+    Vanilla LSTM: A basic LSTM that is suitable for multivariate time series forecasting and transfer learning.
+    Full transformer: The full transformer with all 8 encoder and decoder blocks. Requires passing the target in at inference.
+    Simple Multi-Head Attention: A simple multi-head attention block and linear embedding layers. Suitable for transfer learning.
+    Transformer with a linear decoder: A transformer with n-encoder blocks (this is tunable) and a linear decoder.
+    DA-RNN: A well rounded model with which utilizes a LSTM + attention.
+    Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting:
+    Transformer XL:
+    Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting
+    DeepAR
+    
+    
+
+BorealisAI/continuous-time-flow-process 
+Modeling Continuous Stochastic Process with Dynamic Normalizing Flow
+
+
+
+CoronaWhy/task-ts
+
+
+
+pip install nbeats-pytorch philipperemy/n-beats 
+
+
+
+
+
+YuliaRubanova/latent_ode 
+Running different models
+    ODE-RNN
+python3 run_models.py --niters 500 -n 1000 -l 10 --dataset periodic  --ode-rnn
+    Latent ODE with ODE-RNN encoder
+python3 run_models.py --niters 500 -n 1000 -l 10 --dataset periodic  --latent-ode
+    Latent ODE with ODE-RNN encoder and poisson likelihood
+python3 run_models.py --niters 500 -n 1000 -l 10 --dataset periodic  --latent-ode --poisson
+    Latent ODE with RNN encoder (Chen et al, 2018)
+python3 run_models.py --niters 500 -n 1000 -l 10 --dataset periodic  --latent-ode --z0-encoder rnn
+    RNN-VAE
+python3 run_models.py --niters 500 -n 1000 -l 10 --dataset periodic  --rnn-vae
+    Classic RNN
+python3 run_models.py --niters 500 -n 1000 -l 10 --dataset periodic  --classic-rnn
+    GRU-D
+GRU-D consists of two parts: input imputation (--input-decay) and exponential decay of the hidden state (--rnn-cell expdecay)
+python3 run_models.py --niters 500 -n 100  -b 30 -l 10 --dataset periodic  --classic-rnn --input-decay --rnn-cell expdecay
+Making the visualization
+
+
+
+
+collection Zymrael/awesome-neural-ode 
+
+lib rtqichen/torchdiffeq 
+
+
+https://kidger.site/publications/
+patrick-kidger/torchcde               
+Neural Controlled Differential Equations
+Irregular Time Series:
+
+
+
+
+
+
