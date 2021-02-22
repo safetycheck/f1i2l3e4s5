@@ -2,6 +2,56 @@
 минутки основных инструментов с Финама (могут быть ошибки во время перехода на летнее/зимнее время)
 https://drive.google.com/file/d/1cdjaJ08vMOyr1Sx4K3H99ny9XygDtpBp/view?usp=sharing
 
+!!!!!!!!!!
+https://pyts.readthedocs.io/en/stable/user_guide.html
+pyts is a Python package dedicated to time series classification. It aims to make time series classification easily accessible by providing preprocessing and utility tools, and implementations of several time series classification algorithms
+
+2. Classification of raw time series
+2.1. KNeighborsClassifier
+2.2. SAX-VSM
+2.3. BOSSVS
+2.4. LearningShapelets
+3. Extracting features from time series
+3.1. ShapeletTransform
+3.2. BagOfPatterns
+3.3. BOSS
+3.4. WEASEL
+3.5. ROCKET
+4. Imaging time series
+4.1. Recurrence Plot
+4.2. Gramian Angular Field
+4.3. Markov Transition Field
+5. Preprocessing utilities
+5.1. Imputing missing values
+5.2. Scaling
+5.3. Non-linear transformation
+6. Decomposing time series
+6.1. Singular Spectrum Analysis
+7. Approximating time series
+7.1. Piecewise Aggregate Approximation
+7.2. Symbolic Aggregate approXimation
+7.3. Discrete Fourier Transform
+7.4. Multiple Coefficient Binning
+7.5. Symbolic Fourier Approximation
+8. Bag of words for time series
+8.1. Bag of words
+8.2. Word Extractor
+9. Metrics for time series
+9.1. Classical Dynamic Time Warping
+9.2. Variants of Dynamic Time Warping
+9.3. Implementations
+10. Multivariate time series
+10.1. Classification
+10.2. Transformation
+10.3. Image
+11. Dataset loading utilities
+11.1. Simulated datasets
+11.2. Univariate time series: UCR repository
+11.3. Multivariate time series: UEA repository
+
+
+
+
 https://github.com/StatMixedML?tab=repositories
 много time series моделей
 
