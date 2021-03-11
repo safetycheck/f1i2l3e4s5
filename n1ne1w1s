@@ -1,7 +1,12 @@
 https://innocentive.wazoku.com/#/challenge/e745726c11a94f3bac37ffdb5485ab5f
-Predicting the movement of any commodity market is a complex endeavor. Recent studies have shown promising results in applying sentiment analysis methods to stock markets and the Seeker would like to explore the use of similar analysis techniques to aid in the prediction of the world steel market. The Seeker desires an algorithm that takes as input various qualitative data sources such as RSS feeds with news and blogs related to the steel industry and produces a greed/fear numerical index to be used as an input to a complete forecasting model.
+Predicting the movement of any commodity market is a complex endeavor. Recent studies have shown promising results 
+in applying sentiment analysis methods to stock markets and the Seeker would like to explore the use of similar 
+analysis techniques to aid in the prediction of the world steel market. The Seeker desires an algorithm that 
+takes as input various qualitative data sources such as RSS feeds with news and blogs related to the steel 
+industry and produces a greed/fear numerical index to be used as an input to a complete forecasting model.
 
-This is a Reduction-to-Practice Challenge that requires written documentation, output from the proposed system, and submission of source code and/or executable for validation upon request.
+This is a Reduction-to-Practice Challenge that requires written documentation, output from the proposed 
+system, and submission of source code and/or executable for validation upon request.
 Award: $20,000
 
 
